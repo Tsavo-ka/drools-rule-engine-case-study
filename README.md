@@ -1,1 +1,1 @@
-This is a sample repository for a Drools Rule Engine Dataset. It was created as a self-learning project, based on an insurance application and claim approval scheme.
+This is a sample repository for a Drools Rule Engine Dataset. It is a self-learning project for DRL and Java, using external repositories and code templates as reference. The concept is based on an insurance application and claim approval scheme.
